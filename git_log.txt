@@ -1,0 +1,52 @@
+commit 9f90ff944f298baa27d538b157b37f9bb64ecdbd
+Merge: 7fb46bc d7e08c1
+Author: ellymonty12-web <ellymonty12@gmail.com>
+Date:   Thu Feb 5 16:41:03 2026 -0800
+
+    Merge branch 'index-fix'
+
+commit d7e08c1e3f0b8f65f0b36a02ee49746618c96156
+Author: ellymonty12-web <ellymonty12@gmail.com>
+Date:   Thu Feb 5 16:27:51 2026 -0800
+
+    Added movie or game div
+
+commit 7fb46bc8bddc2f7a56ea32a82fbcfe01c837260c
+Author: ellymonty12-web <ellymonty12@gmail.com>
+Date:   Thu Feb 5 16:25:03 2026 -0800
+
+    New div to index html
+
+commit c8d32d4b46cda1166aa428b34cebc22d4b0f6987
+Merge: f2fe28f 1201cbb
+Author: ellymonty12-web <ellymonty12@gmail.com>
+Date:   Thu Feb 5 16:10:14 2026 -0800
+
+    Merge branch 'main' of https://github.com/ellymonty12-web/CS3338-second-project
+
+commit f2fe28f606f951f6cebd86d53c015ea2a19e3619
+Author: ellymonty12-web <ellymonty12@gmail.com>
+Date:   Thu Feb 5 16:02:04 2026 -0800
+
+    Commit README for main branch
+
+commit 1201cbb3ccd9488c68ab6140cdd3d1e4fc0697d5
+Merge: 1d2bfc0 89ae0df
+Author: Elvis Montiel <ellymonty12@gmail.com>
+Date:   Fri Jan 30 14:24:55 2026 -0800
+
+    Merge pull request #1 from ellymonty12-web/info-fill
+    
+    filled in blanks on  index file
+
+commit 89ae0df0c58f86faa9b8b1a69bc0bed9e7f97d38
+Author: ellymonty12-web <ellymonty12@gmail.com>
+Date:   Fri Jan 30 11:16:15 2026 -0800
+
+    filled in blanks on  index file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
